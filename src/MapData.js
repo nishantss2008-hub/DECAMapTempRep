@@ -378,7 +378,7 @@ export const SCHOOLS_RAW = [
   ["Lakewood Ranch High School", 6, "Lakewood Ranch"],
   ["Land O' Lakes High School", 6, "Land O' Lakes"],
   ["Landow Jewish Academy", 9, "Hollywood"],
-  ["Latin Builders Association Academy", 7, "Hialeah"],
+
   ["Latin Builders Association High School", 10, "Hialeah"],
   ["Laurel Nokomis Middle School", 6, "Nokomis"],
   ["Lawton Chiles", 1, "Tallahassee"],
