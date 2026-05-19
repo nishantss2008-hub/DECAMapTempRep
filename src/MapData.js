@@ -615,7 +615,7 @@ export function project(lng, lat) {
   return [x, y];
 }
 
-import GEOCODES from './schoolGeocodes.json' with { type: 'json' };
+import GEOCODES from './schoolGeocodes.json';
 
 function jitter(idx, range) {
   const a = Math.sin(idx * 12.9898 + 78.233) * 43758.5453;
