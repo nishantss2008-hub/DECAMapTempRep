@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
-import { MapContainer, TileLayer, Polygon, Marker, Popup, Tooltip, CircleMarker, LayersControl, useMap } from 'react-leaflet';
+import { MapContainer, TileLayer, Polygon, Marker, Popup, Tooltip, CircleMarker, LayersControl, useMap, GeoJSON } from 'react-leaflet';
+import FL_COUNTIES from './flCounties.json';
 import L from 'leaflet';
 import 'leaflet/dist/leaflet.css';
 import './App.css';
@@ -84,6 +85,26 @@ function App() {
               url="https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}"
             />
           </LayersControl.BaseLayer>
+          <LayersControl.Overlay name="Florida Counties">
+            <GeoJSON
+              data={FL_COUNTIES}
+              style={{
+                color: '#6c7a89',
+                weight: 1.5,
+                opacity: 0.6,
+                fillColor: 'transparent',
+                dashArray: '4, 4'
+              }}
+              onEachFeature={(feature, layer) => {
+                if (feature.properties && feature.properties.NAME) {
+                  layer.bindTooltip(`${feature.properties.NAME} County`, {
+                    sticky: true,
+                    direction: 'auto'
+                  });
+                }
+              }}
+            />
+          </LayersControl.Overlay>
         </LayersControl>
 
         {Object.keys(DISTRICT_LATLNG).map(d => {
