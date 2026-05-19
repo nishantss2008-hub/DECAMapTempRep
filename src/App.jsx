@@ -3,7 +3,7 @@ import { MapContainer, TileLayer, Polygon, Marker, Popup, Tooltip, CircleMarker,
 import L from 'leaflet';
 import 'leaflet/dist/leaflet.css';
 import './App.css';
-import { DISTRICTS, SCHOOLS, DISTRICT_LATLNG, FL_BOUNDS } from './MapData';
+import { DISTRICTS, SCHOOLS, DISTRICT_LATLNG, FL_BOUNDS, STATE_OFFICERS } from './MapData';
 
 function ZoomWatcher({ onZoom }) {
   const map = useMap();
@@ -48,6 +48,19 @@ function App() {
 
   return (
     <div id="fldeca-map-root">
+      <div className="fldeca-state-bar">
+        <div className="brand">Florida DECA · State Officer Team</div>
+        <div className="execs">
+          <span className="exec">
+            <span className="role">Executive President</span>
+            <span className="name">{STATE_OFFICERS.president.name}</span>
+          </span>
+          <span className="exec">
+            <span className="role">Executive Vice President</span>
+            <span className="name">{STATE_OFFICERS.executiveVP.name}</span>
+          </span>
+        </div>
+      </div>
       <MapContainer
         bounds={FL_BOUNDS}
         boundsOptions={{ padding: [20, 20] }}

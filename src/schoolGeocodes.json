@@ -1,0 +1,1707 @@
+{
+  "A. Crawford Mosley High School|Lynn Haven": {
+    "lat": 30.212061,
+    "lng": -85.643339,
+    "source": "A Crawford Mosley High School, Mosley Drive, The Hammocks, Lynn Haven, Bay County, Florida, 32444, United States"
+  },
+  "Andrew Jackson High School|Jacksonville": {
+    "lat": 30.3358,
+    "lng": -81.6857,
+    "source": "manual: 1539 W State St, Jacksonville FL"
+  },
+  "Avant Schools of Excellence|Tallahassee": {
+    "lat": 30.4575,
+    "lng": -84.2533,
+    "source": "manual: Tallahassee FL (approx)"
+  },
+  "Booker T Washington High School|Pensacola": {
+    "lat": 30.4848352,
+    "lng": -87.2110329,
+    "source": "Booker T. Washington High School, 600, College Parkway, Broadview Oaks Apartments, Pensacola, Escambia County, Florida, 32504, United States"
+  },
+  "Escambia High School|Pensacola": {
+    "lat": 30.4259514,
+    "lng": -87.2981349,
+    "source": "Escambia High School, Flaxman Street, Benjamin Oaks Apartments, Myrtle Grove, Escambia County, Florida, 32506, United States"
+  },
+  "Florida Virtual School|Tallahassee": {
+    "lat": 30.4277934,
+    "lng": -84.3225745,
+    "source": "Florida Virtual Campus, West Paul Dirac Drive, Tallahassee, Leon County, Florida, 32310, United States"
+  },
+  "J.R. Arnold High School|Panama City": {
+    "lat": 30.204525,
+    "lng": -85.8127829,
+    "source": "J.R. Arnold High School, 550, Alf Coleman Road, Panama City Beach, Bay County, Florida, 32407, United States"
+  },
+  "James S. Rickards High School|Tallahassee": {
+    "lat": 30.4077689,
+    "lng": -84.2621429,
+    "source": "James S. Rickards High School, 3013, Jim Lee Road, Tallahassee, Leon County, Florida, 32301, United States"
+  },
+  "Jefferson Somerset Academy|Monticello": {
+    "lat": 30.5447,
+    "lng": -83.8716,
+    "source": "manual: 395 W Washington St, Monticello FL"
+  },
+  "Lawton Chiles|Tallahassee": {
+    "lat": 30.5722218,
+    "lng": -84.2106413,
+    "source": "Lawton Chiles High School, 7200, Lawton Chiles Lane, Bradfordville, Tallahassee, Leon County, Florida, 32312, United States"
+  },
+  "Maclay School|Tallahassee": {
+    "lat": 30.5254222,
+    "lng": -84.2746851,
+    "source": "Maclay School, 3737, North Meridian Road, Tallahassee, Leon County, Florida, 32312, United States"
+  },
+  "North Bay Haven Charter Academy|Panama City": {
+    "lat": 30.2421,
+    "lng": -85.658,
+    "source": "manual: 3000 W 14th Pl, Lynn Haven FL"
+  },
+  "Ohana Institute|Inlet Beach": {
+    "lat": 30.278,
+    "lng": -86.001,
+    "source": "manual: Inlet Beach FL (approx)"
+  },
+  "Pace High School|Pace": {
+    "lat": 30.6135023,
+    "lng": -87.1542418,
+    "source": "Pace High School, Pace Patriot Boulevard, Pace, Santa Rosa County, Florida, 32571, United States"
+  },
+  "South Walton High School|Santa Rosa Beach": {
+    "lat": 30.3791285,
+    "lng": -86.1809633,
+    "source": "South Walton High School, Greenway Trail, Walton County, Florida, 32459, United States"
+  },
+  "A. Philip Randolph Career Academies|Jacksonville": {
+    "lat": 30.3672551,
+    "lng": -81.6772255,
+    "source": "A. Philip Randolph Career Academies, Golfair Boulevard, Norwood, Jacksonville, Duval County, Florida, 32209, United States"
+  },
+  "Allen D Nease High School|Ponte Vedra Beach": {
+    "lat": 30.0792562,
+    "lng": -81.4479916,
+    "source": "Allen D Nease High School, Pissaro Avenue, Durbin, Saint Johns County, Florida, 32081, United States"
+  },
+  "Atlantic Coast High School|Jacksonville": {
+    "lat": 30.2035314,
+    "lng": -81.5049805,
+    "source": "Atlantic Coast High School, Engineering Way, Kettering, Jacksonville, Duval County, Florida, 32256, United States"
+  },
+  "Baldwin Middle Senior High School|Baldwin": {
+    "lat": 30.3055242,
+    "lng": -81.9773252,
+    "source": "Baldwin Middle Senior High School, North Chestnut Street, Baldwin, Duval County, Florida, 32234, United States"
+  },
+  "Bartram Trail High School|St. Johns": {
+    "lat": 30.0447877,
+    "lng": -81.6087026,
+    "source": "Bartram Trail High School, Longleaf Pine Parkway, Rivertown, Saint Johns County, Florida, 32259, United States"
+  },
+  "Beachside High School|St. Augustine": {
+    "lat": 30.0834344,
+    "lng": -81.4927836,
+    "source": "Beachside High School, 200, Great Barracuda Way, Beachwalk Saint Johns County, Durbin, Saint Johns County, Florida, 32259, United States"
+  },
+  "Creekside High School|St. Johns": {
+    "lat": 30.0788656,
+    "lng": -81.5621017,
+    "source": "Creekside High School, Longleaf Pine Parkway, Saint Johns County, Florida, 32259, United States"
+  },
+  "Douglas Anderson School of the Arts|Jacksonville": {
+    "lat": 30.3014411,
+    "lng": -81.6386531,
+    "source": "Douglas Anderson School of the Arts, White Avenue, Philips, Saint Nicholas, Jacksonville, Duval County, Florida, 32207, United States"
+  },
+  "Edward H White High School|Jacksonville": {
+    "lat": 30.2908347,
+    "lng": -81.7692709,
+    "source": "Edward H White High School, 1700, Old Middleburg Road North, Lackawanna, Jacksonville, Duval County, Florida, 32210, United States"
+  },
+  "Englewood High School|Jacksonville": {
+    "lat": 30.2773857,
+    "lng": -81.6123654,
+    "source": "Englewood High School, Barnes Road South, Santa Monica, Englewood, Jacksonville, Duval County, Florida, 32216, United States"
+  },
+  "First Coast High School|Jacksonville": {
+    "lat": 30.4820297,
+    "lng": -81.6075497,
+    "source": "First Coast High School, 590, Duval Station Road, Jacksonville, Duval County, Florida, 32218, United States"
+  },
+  "Flagler Palm Coast High School|Palm Coast": {
+    "lat": 29.4784951,
+    "lng": -81.2098222,
+    "source": "Flagler Palm Coast High School, 5500, Transportation Way, Palm Coast, Flagler County, Florida, 32164, United States"
+  },
+  "Fleming Island High School|Fleming Island": {
+    "lat": 30.0873904,
+    "lng": -81.7120195,
+    "source": "Fleming Island High School, 2233, Village Square Parkway, Clay County, Florida, 32003, United States"
+  },
+  "Fletcher High School|Jacksonville Beach": {
+    "lat": 30.3087787,
+    "lng": -81.4021738,
+    "source": "Duncan U Fletcher High School, Duncan U Fletcher High Ac, Neptune Beach, Duval County, Florida, 32266, United States"
+  },
+  "Global Leadership Academy|Jacksonville": {
+    "lat": 30.2987,
+    "lng": -81.5611,
+    "source": "manual: Jacksonville FL (approx)"
+  },
+  "Jean Ribault High School|Jacksonville": {
+    "lat": 30.3915053,
+    "lng": -81.7087988,
+    "source": "Jean Ribault High School, Jean Ribault Middle Ac, Harbor View, Jacksonville, Duval County, Florida, 32209, United States"
+  },
+  "Matanzas High School|Palm Coast": {
+    "lat": 29.6005692,
+    "lng": -81.2362198,
+    "source": "Matanzas High School, 3535, Pirate Nation Way, Palm Coast, Flagler County, Florida, 32137, United States"
+  },
+  "Paxon School for Advanced Studies|Jacksonville": {
+    "lat": 30.3454318,
+    "lng": -81.7249318,
+    "source": "Paxon School For Advanced Studies, 3239, Norman E Thagard Boulevard, West Jacksonville, Jacksonville, Duval County, Florida, 32254, United States"
+  },
+  "Ponte Vedra High School|Ponte Vedra Beach": {
+    "lat": 30.1123503,
+    "lng": -81.3946137,
+    "source": "Ponte Vedra High School, Davis Park Road, Nocatee, Saint Johns County, Florida, 32082, United States"
+  },
+  "Samuel W. Wolfson|Jacksonville": {
+    "lat": 30.2512978,
+    "lng": -81.615103,
+    "source": "Samuel W Wolfson High Ac, Jacksonville, Duval County, Florida, 32217, United States"
+  },
+  "Sandalwood High School|Jacksonville": {
+    "lat": 30.2981135,
+    "lng": -81.5180349,
+    "source": "Sandalwood High School, Sandalwood 2 High Ac, Beechwood, Jacksonville, Duval County, Florida, 32246, United States"
+  },
+  "St. Augustine High School|St. Augustine": {
+    "lat": 29.9250156,
+    "lng": -81.3424618,
+    "source": "Saint Augustine High School, Bradford Street, Woodlawn, West Augustine, Saint Johns County, Florida, 32084, United States"
+  },
+  "St. Johns Country Day School|Orange Park": {
+    "lat": 30.1577,
+    "lng": -81.7381,
+    "source": "manual: 3100 Doctors Lake Dr, Orange Park FL"
+  },
+  "Stanton College Preparatory School|Jacksonville": {
+    "lat": 30.3527258,
+    "lng": -81.6728948,
+    "source": "Stanton College Preparatory, 1149, West 13th Street, College Park, Jacksonville, Duval County, Florida, 32209, United States"
+  },
+  "Tocoi Creek High School|St. Augustine": {
+    "lat": 29.9687413,
+    "lng": -81.4883104,
+    "source": "Tocoi Creek High School, 11200, Saint Johns Parkway, World Golf Village, Saint Augustine, Saint Johns County, Florida, 32092, United States"
+  },
+  "Buchholz High School|Gainesville": {
+    "lat": 29.6790221,
+    "lng": -82.4014657,
+    "source": "Buchholz High School, 5510, Northwest 27th Avenue, Gainesville, Alachua County, Florida, 32606, United States"
+  },
+  "Burns Science And Technology School|Port Orange": {
+    "lat": 29.1166,
+    "lng": -81.014,
+    "source": "manual: 4014 Halifax Dr, Port Orange FL"
+  },
+  "Cedar Key School|Cedar Key": {
+    "lat": 29.1405357,
+    "lng": -83.0389428,
+    "source": "Cedar Key School, 951, Whiddon Avenue, Cedar Key, Levy County, Florida, 32625, United States"
+  },
+  "Gainesville High School|Gainesville": {
+    "lat": 29.6692138,
+    "lng": -82.3412138,
+    "source": "Gainesville High School, 1900, Northwest 13th Street, Gainesville, Alachua County, Florida, 32609, United States"
+  },
+  "Lecanto High School|Lecanto": {
+    "lat": 28.824017,
+    "lng": -82.4989773,
+    "source": "Lecanto High School, South Panther Pride Drive, Lecanto, Citrus County, Florida, 34461, United States"
+  },
+  "New Smyrna Beach High School|New Smyrna Beach": {
+    "lat": 29.0053204,
+    "lng": -80.9315754,
+    "source": "New Smyrna Beach High School, 1015, 10th Street, New Smyrna Beach, Volusia County, Florida, 32168, United States"
+  },
+  "Oak Hall School|Gainesville": {
+    "lat": 29.6392193,
+    "lng": -82.4266922,
+    "source": "Oak Hall School, 1700, Southwest 75th Street, Gainesville, Alachua County, Florida, 32607, United States"
+  },
+  "P.K. Yonge Developmental Research School|Gainesville": {
+    "lat": 29.6404009,
+    "lng": -82.3348005,
+    "source": "P.K. Yonge Developmental Research School, PK Yonge Bike Path, Gainesville, Alachua County, Florida, 32610, United States"
+  },
+  "Pine Ridge High School|Deltona": {
+    "lat": 28.8875696,
+    "lng": -81.1627246,
+    "source": "Pine Ridge High School, 926, Howland Boulevard, Deltona, Volusia County, Florida, 32738, United States"
+  },
+  "Saint Francis Catholic Academy|Gainesville": {
+    "lat": 29.6480749,
+    "lng": -82.324607,
+    "source": "Saint Francis House, Southeast 4th Avenue, Gainesville, Alachua County, Florida, 32601, United States"
+  },
+  "Spruce Creek High School|Port Orange": {
+    "lat": 29.1099462,
+    "lng": -81.0163563,
+    "source": "Spruce Creek High School, 801, Taylor Road, Port Orange, Volusia County, Florida, 32127, United States"
+  },
+  "Williston Middle High School|Williston": {
+    "lat": 29.3686523,
+    "lng": -82.4506599,
+    "source": "Williston Middle High School, US 41, Williston, Levy County, Florida, 32696, United States"
+  },
+  "Apopka High School|Apopka": {
+    "lat": 28.6956235,
+    "lng": -81.5204937,
+    "source": "Apopka High School, Grossenbacher Drive, Shamrock Square, Apopka, Orange County, Florida, 32712, United States"
+  },
+  "Bishop Moore Catholic High School|Orlando": {
+    "lat": 28.5878493,
+    "lng": -81.3906561,
+    "source": "Bishop Moore Catholic High School, Cocoa Lane, College Park, Orlando, Orange County, Florida, 32804, United States"
+  },
+  "Celebration High School|Celebration": {
+    "lat": 28.2972759,
+    "lng": -81.5686436,
+    "source": "Celebration High School, 1809, Celebration Boulevard, Celebration, Osceola County, Florida, 34747, United States"
+  },
+  "Cocoa Beach High School|Cocoa Beach": {
+    "lat": 28.3175285,
+    "lng": -80.6306046,
+    "source": "Cocoa Beach High School, Minutemen Causeway, Cocoa Beach, Brevard County, Florida, 32391, United States"
+  },
+  "Cornerstone Charter High School|Belle Isle": {
+    "lat": 28.4724945,
+    "lng": -81.3673653,
+    "source": "Cornerstone Charter Academy High School, Fairlane Avenue, Pine Castle, Belle Isle, Orange County, Florida, 32809, United States"
+  },
+  "Cypress Creek High School|Orlando": {
+    "lat": 28.3818096,
+    "lng": -81.3795725,
+    "source": "Cypress Creek High School, 1101, Bear Crossing Drive, Southchase, Orange County, Florida, 32824, United States"
+  },
+  "Dr. Phillips High School|Orlando": {
+    "lat": 28.4524,
+    "lng": -81.4762,
+    "source": "manual: 6500 Turkey Lake Rd, Orlando FL"
+  },
+  "East Ridge High School|Clermont": {
+    "lat": 28.5401437,
+    "lng": -81.7138893,
+    "source": "East Ridge High School, 13322, Excalibur Road, Clermont, Lake County, Florida, 34711, United States"
+  },
+  "Edgewater High School|Orlando": {
+    "lat": 28.5814201,
+    "lng": -81.3915639,
+    "source": "Edgewater High School, Edgewater Drive, College Park, Orlando, Orange County, Florida, 32804, United States"
+  },
+  "Freedom High School - Orlando|Orlando": {
+    "lat": 28.4154217,
+    "lng": -81.4120366,
+    "source": "Freedom High School, 2500, Amazonas Circle, SouthCenter, Orlando, Orange County, Florida, 32837, United States"
+  },
+  "Gateway High School|Kissimmee": {
+    "lat": 28.2940846,
+    "lng": -81.3591444,
+    "source": "Gateway High School, Panther Paws Trail, Buenaventura Lakes, Osceola County, Florida, 34744, United States"
+  },
+  "Holy Trinity Episcopal Academy|Melbourne": {
+    "lat": 28.0805592,
+    "lng": -80.6231634,
+    "source": "Holy Trinity Episcopal Church, West Strawbridge Avenue, Melbourne, Brevard County, Florida, 32901, United States"
+  },
+  "Horizon High|Winter Garden": {
+    "lat": 28.4161462,
+    "lng": -81.6270314,
+    "source": "Horizon High School, Western Beltway, Orange County, Florida, United States"
+  },
+  "Jones High School|Orlando": {
+    "lat": 28.5329863,
+    "lng": -81.3995042,
+    "source": "Jones High School, Cypress Street, Lorna Doone, Orlando, Orange County, Florida, 32805, United States"
+  },
+  "Lake Highland Preparatory School|Orlando": {
+    "lat": 28.5598614,
+    "lng": -81.3706646,
+    "source": "Lake Highland, Orlando, Orange County, Florida, United States"
+  },
+  "Lake Howell High School|Winter Park": {
+    "lat": 28.6381478,
+    "lng": -81.2724496,
+    "source": "Lake Howell High School, Dike Road, Seminole County, Florida, 32733, United States"
+  },
+  "Lake Mary High School|Lake Mary": {
+    "lat": 28.7364253,
+    "lng": -81.3361934,
+    "source": "Lake Mary High School, 655, Longwood Lake Mary Road, Lake View, Lake Mary, Seminole County, Florida, 32746, United States"
+  },
+  "Lake Mary Prep School|Lake Mary": {
+    "lat": 28.7811,
+    "lng": -81.3279,
+    "source": "manual: 650 Rantoul Ln, Lake Mary FL"
+  },
+  "Lake Minneola High School|Minneola": {
+    "lat": 28.5813902,
+    "lng": -81.719932,
+    "source": "Lake Minneola High School, 101, North Hancock Road, Mohawk, Minneola, Lake County, Florida, 34715, United States"
+  },
+  "Lake Nona High School|Orlando": {
+    "lat": 28.3807198,
+    "lng": -81.247084,
+    "source": "Lake Nona High School, 12500, Narcoossee Road, Narcoossee Groves, Orlando, Orange County, Florida, 32832, United States"
+  },
+  "Liberty High School|Kissimmee": {
+    "lat": 28.161511,
+    "lng": -81.4432248,
+    "source": "Liberty High School, 4250, Pleasant Hill Road, Kissimmee, Osceola County, Florida, 34746, United States"
+  },
+  "Lyman High School|Longwood": {
+    "lat": 28.6877152,
+    "lng": -81.3438696,
+    "source": "Lyman High School, Adams Lane, Longwood, Seminole County, Florida, 32750, United States"
+  },
+  "Maynard Evans High School|Orlando": {
+    "lat": 28.572,
+    "lng": -81.4715,
+    "source": "manual: 4949 Silver Star Rd, Orlando FL"
+  },
+  "Merritt Island High School|Merritt Island": {
+    "lat": 28.3787449,
+    "lng": -80.7002861,
+    "source": "Merritt Island High School, North Courtenay Parkway, Merritt Island, Brevard County, Florida, 32952, United States"
+  },
+  "Neocity Academy|Kissimmee": {
+    "lat": 28.2937879,
+    "lng": -81.3754381,
+    "source": "Neocity Way, Kissimmee, Osceola County, Florida, 34744, United States"
+  },
+  "Olympia High School|Orlando": {
+    "lat": 28.4972965,
+    "lng": -81.5060593,
+    "source": "Olympia High School, 4301, Apopka Vineland Road, Orlando, Orange County, Florida, 32835, United States"
+  },
+  "Orlando Christian Prep|Orlando": {
+    "lat": 28.547,
+    "lng": -81.3105,
+    "source": "manual: 500 S Semoran Blvd, Orlando FL"
+  },
+  "Orlando Science School|Orlando": {
+    "lat": 28.5722851,
+    "lng": -81.368303,
+    "source": "Orlando Science Center and Dr Phillips Cinedome, 777, East Princeton Street, Lake Formosa, Orlando, Orange County, Florida, 32803, United States"
+  },
+  "Osceola County School for the Arts|Kissimmee": {
+    "lat": 28.341878,
+    "lng": -81.4021022,
+    "source": "Osceola County School for the Arts, 3151, North Orange Blossom Trail, Kissimmee, Osceola County, Florida, 34744, United States"
+  },
+  "Osceola High School|Kissimmee": {
+    "lat": 28.2955667,
+    "lng": -81.4103488,
+    "source": "Beaumont Middle School;Osceola High School, North Beaumont Avenue, Kissimmee, Osceola County, Florida, 34741, United States"
+  },
+  "Oviedo High School|Oviedo": {
+    "lat": 28.6736559,
+    "lng": -81.2188726,
+    "source": "Oviedo High School, 601, King Street, Oviedo, Seminole County, Florida, 32765, United States"
+  },
+  "Poinciana High School|Poinciana": {
+    "lat": 28.2343049,
+    "lng": -81.4909525,
+    "source": "Poinciana High School, Sunset Canyon Drive, Osceola County, Florida, 34758, United States"
+  },
+  "Rockledge High School|Rockledge": {
+    "lat": 28.3414703,
+    "lng": -80.7235588,
+    "source": "Rockledge High School, Rockledge Avenue, Rockledge, Brevard County, Florida, 32956, United States"
+  },
+  "Saint Cloud High School|St. Cloud": {
+    "lat": 28.2393526,
+    "lng": -81.2807579,
+    "source": "Saint Cloud High School, Bulldog Lane, Saint Cloud, Osceola County, Florida, 34769, United States"
+  },
+  "Satellite High School|Satellite Beach": {
+    "lat": 28.1856177,
+    "lng": -80.5967296,
+    "source": "Satellite High School, Delaura Court, Satellite Beach, Brevard County, Florida, 32937, United States"
+  },
+  "Seminole High School|Sanford": {
+    "lat": 28.778723,
+    "lng": -81.2836045,
+    "source": "Seminole High School, Ridgewood Avenue, Dreamworld, Sanford, Seminole County, Florida, 32773, United States"
+  },
+  "The Paragon School|Orlando": {
+    "lat": 28.538,
+    "lng": -81.379,
+    "source": "manual: Orlando FL (approx)"
+  },
+  "Tohopekaliga High School|Kissimmee": {
+    "lat": 28.3353748,
+    "lng": -81.2929693,
+    "source": "Tohopekaliga High School, 3675, Boggy Creek Road, Kissimmee, Osceola County, Florida, 34744, United States"
+  },
+  "Trinity Preparatory School|Winter Park": {
+    "lat": 28.6115841,
+    "lng": -81.2726917,
+    "source": "Trinity Preparatory School, 5700, Trinity Prep Lane, Bertha, Winter Park, Seminole County, Florida, 32792, United States"
+  },
+  "University High School|Orlando": {
+    "lat": 28.5781826,
+    "lng": -81.2169017,
+    "source": "University High School, Rouse Lake Road, University Park, University, Orange County, Florida, 32826, United States"
+  },
+  "Viera High School|Viera": {
+    "lat": 28.2519249,
+    "lng": -80.7349587,
+    "source": "Viera High School, Lake Andrew Drive, Viera, Brevard County, Florida, 32940, United States"
+  },
+  "Wekiva High School|Apopka": {
+    "lat": 28.6369691,
+    "lng": -81.4735858,
+    "source": "Wekiva High School, 2501, Hiawassee Road, Apopka, Orange County, Florida, 32703, United States"
+  },
+  "West Orange High School|Winter Garden": {
+    "lat": 28.5416151,
+    "lng": -81.5669932,
+    "source": "West Orange High School, Beulah Road, Beulah, Orange County, Florida, 32787, United States"
+  },
+  "Windermere High School|Windermere": {
+    "lat": 28.4839578,
+    "lng": -81.5806647,
+    "source": "Windermere High School, 5523, Winter Garden Vineland Road, Windermere, Orange County, Florida, 34786, United States"
+  },
+  "Windermere Preparatory School|Windermere": {
+    "lat": 28.476444,
+    "lng": -81.5688867,
+    "source": "Windermere Preparatory School, 6819, Winter Garden Vineland Road, Windermere, Orange County, Florida, 23786, United States"
+  },
+  "Winter Park High School|Winter Park": {
+    "lat": 28.5837485,
+    "lng": -81.3201034,
+    "source": "Winter Park High School, Greene Drive, Williamsburgh, Winter Park, Orange County, Florida, 32792, United States"
+  },
+  "Winter Springs High School|Winter Springs": {
+    "lat": 28.7041827,
+    "lng": -81.2654723,
+    "source": "Winter Springs High School, 130, Tuskawilla Road, Winter Springs, Seminole County, Florida, 32708, United States"
+  },
+  "Bartow Senior High School|Bartow": {
+    "lat": 27.8844515,
+    "lng": -81.8426467,
+    "source": "Bartow Senior High School, Tharp Street, Bartow, Polk County, Florida, 33830, United States"
+  },
+  "Four Corners Upper High School|Davenport": {
+    "lat": 28.3182,
+    "lng": -81.6116,
+    "source": "manual: 50931 US-27, Davenport FL"
+  },
+  "Haines City High School|Haines City": {
+    "lat": 28.098124,
+    "lng": -81.6089202,
+    "source": "Haines City Senior High School, Grace Avenue, Haines City, Polk County, Florida, 33844, United States"
+  },
+  "Kathleen High School|Lakeland": {
+    "lat": 28.0567445,
+    "lng": -81.9963467,
+    "source": "Kathleen High School, 1100, Tedrow Road, Polk County, Florida, 33805, United States"
+  },
+  "Lake Gibson High School|Lakeland": {
+    "lat": 28.1335483,
+    "lng": -81.9548531,
+    "source": "Lake Gibson High School, North Socrum Loop Road, Polk County, Florida, 33809, United States"
+  },
+  "Lake Region High School|Winter Haven": {
+    "lat": 27.9775278,
+    "lng": -81.7485822,
+    "source": "Lake Region High School, 1995, Thunder Road, Eagle Lake, Polk County, Florida, 33839, United States"
+  },
+  "McKeel Academy Of Technology|Lakeland": {
+    "lat": 28.0459,
+    "lng": -81.9745,
+    "source": "manual: 1810 W Main St, Lakeland FL"
+  },
+  "Ridge Community High School|Davenport": {
+    "lat": 28.151611,
+    "lng": -81.6295965,
+    "source": "Ridge Community High School, Orchid Drive, Haines City, Polk County, Florida, 33836, United States"
+  },
+  "Winter Haven High School|Winter Haven": {
+    "lat": 28.0131655,
+    "lng": -81.7168382,
+    "source": "Winter Haven Senior High School, Avenue G Southeast, Winter Haven, Polk County, Florida, 33880, United States"
+  },
+  "Academy at the Lakes|Land O' Lakes": {
+    "lat": 28.1913366,
+    "lng": -82.437196,
+    "source": "Academy at the Lakes, Collier Parkway, Land O' Lakes, Pasco County, Florida, 34639, United States"
+  },
+  "Alonso High School|Tampa": {
+    "lat": 28.022049,
+    "lng": -82.603998,
+    "source": "Alonso High School, 8302, Montague Street, Bayport West, Tampa, Hillsborough County, Florida, 33635, United States"
+  },
+  "Armwood High School|Seffner": {
+    "lat": 28.0048835,
+    "lng": -82.2969894,
+    "source": "Blanche Armwood High School, US 92, Seffner, Hillsborough County, Florida, 33584, United States"
+  },
+  "Brooks Debartolo Collegiate High School|Tampa": {
+    "lat": 28.053424,
+    "lng": -82.4440361,
+    "source": "Brooks-Debartolo Collegiate High Shcool (charter), Debeers Drive, Tampa, Hillsborough County, Florida, 33612, United States"
+  },
+  "Brookside Middle School|Sarasota": {
+    "lat": 27.3006369,
+    "lng": -82.5240683,
+    "source": "Brookside Middle School, South Shade Avenue, South Trail, Sarasota County, Florida, 34239, United States"
+  },
+  "C Leon King High School|Tampa": {
+    "lat": 28.0293,
+    "lng": -82.3943,
+    "source": "manual: 6815 N 56th St, Tampa FL"
+  },
+  "Cardinal Mooney Catholic High School Sarasota|Sarasota": {
+    "lat": 27.3388835,
+    "lng": -82.486427,
+    "source": "Cardinal Mooney Catholic High School, 4171, Fruitville Road, Sarasota, Sarasota County, Florida, 34232, United States"
+  },
+  "Carrollwood Day School|Tampa": {
+    "lat": 28.091014,
+    "lng": -82.474339,
+    "source": "Carrollwood Day School, 1515, West Bearss Avenue, All Bright Shores, Tampa, Hillsborough County, Florida, 33618, United States"
+  },
+  "Dr. Kiran C Patel High School|Tampa": {
+    "lat": 28.0722,
+    "lng": -82.5937,
+    "source": "manual: 13428 W Linebaugh Ave, Tampa FL"
+  },
+  "F W Springstead High School|Spring Hill": {
+    "lat": 28.4901,
+    "lng": -82.5911,
+    "source": "manual: 3300 Mariner Blvd, Spring Hill FL"
+  },
+  "Freedom High School - Tampa|Tampa": {
+    "lat": 28.1342744,
+    "lng": -82.3849091,
+    "source": "Freedom High School and Liberty Middle School, 17410, Commerce Park Boulevard, Tampa, Hillsborough County, Florida, 33647, United States"
+  },
+  "George M Steinbrenner High School|Lutz": {
+    "lat": 28.149,
+    "lng": -82.5344,
+    "source": "manual: 5575 W Lutz Lake Fern Rd, Lutz FL"
+  },
+  "Hillsborough High School|Tampa": {
+    "lat": 27.9906292,
+    "lng": -82.4563344,
+    "source": "Hillsborough High School, 5000, North Central Avenue, Seminole Heights East, Tampa, Hillsborough County, Florida, 33603, United States"
+  },
+  "IMG Academy|Bradenton": {
+    "lat": 27.4405511,
+    "lng": -82.6087522,
+    "source": "IMG Academy, Morton Boulevard, South Bradenton, Manatee County, Florida, 34207, United States"
+  },
+  "Lakewood Ranch High School|Lakewood Ranch": {
+    "lat": 27.4435205,
+    "lng": -82.4361361,
+    "source": "Lakewood Ranch High School, 5500, Lakewood Ranch Boulevard, Lakewood Ranch, Bradenton, Manatee County, Florida, 34211, United States"
+  },
+  "Land O' Lakes High School|Land O' Lakes": {
+    "lat": 28.2618257,
+    "lng": -82.4812679,
+    "source": "Land O' Lakes High School, Gator Lane, Pasco County, Florida, 34638, United States"
+  },
+  "Laurel Nokomis Middle School|Nokomis": {
+    "lat": 27.1505,
+    "lng": -82.4528,
+    "source": "manual: 1900 Laurel Rd, Nokomis FL"
+  },
+  "Lennard High School|Ruskin": {
+    "lat": 27.7219913,
+    "lng": -82.4044,
+    "source": "Lennard High School, 24th Street Northeast, Ruskin, Hillsborough County, Florida, 33570, United States"
+  },
+  "Leto High School|Tampa": {
+    "lat": 28.0120693,
+    "lng": -82.5236788,
+    "source": "Leto Comprehensive High School, Asphalt Avenue, Egypt Lake-Leto, Hillsborough County, Florida, 33614, United States"
+  },
+  "Manatee School For The Arts|Palmetto": {
+    "lat": 27.5096,
+    "lng": -82.5341,
+    "source": "manual: 6215 21st St E, Palmetto FL"
+  },
+  "Middleton High School|Tampa": {
+    "lat": 27.9909399,
+    "lng": -82.4319431,
+    "source": "Middleton High School, 4801, North 22nd Street, Hampshire Park, Tampa, Hillsborough County, Florida, 33610, United States"
+  },
+  "Nature Coast Technical High School|Brooksville": {
+    "lat": 28.5851,
+    "lng": -82.4431,
+    "source": "manual: 4057 California St, Brooksville FL"
+  },
+  "North Port High School|North Port": {
+    "lat": 27.0735592,
+    "lng": -82.2238233,
+    "source": "North Port High School, West Price Boulevard, North Port, Sarasota County, Florida, 34286, United States"
+  },
+  "Palm Harbor University High School|Palm Harbor": {
+    "lat": 28.0840669,
+    "lng": -82.7609551,
+    "source": "Palm Harbor University High School, 1900, Omaha Street, Palm Harbor, Pinellas County, Florida, 34683, United States"
+  },
+  "Parrish Community High School|Parrish": {
+    "lat": 27.5812923,
+    "lng": -82.4393302,
+    "source": "Parrish Community High School, 7505, Fort Hamer Road, Manatee County, Florida, 34219, United States"
+  },
+  "Pine View High School (Sarasota)|Sarasota": {
+    "lat": 27.115,
+    "lng": -82.404,
+    "source": "manual: 1 Python Path, Osprey FL (Pine View School)"
+  },
+  "Riverview High School - Sarasota|Sarasota": {
+    "lat": 27.282466,
+    "lng": -82.5196038,
+    "source": "Riverview High School, 1, Ram Way, Ridge Wood Heights, Sarasota County, Florida, 34231, United States"
+  },
+  "Riverview High School - Hillsborough|Riverview": {
+    "lat": 27.8497388,
+    "lng": -82.31244,
+    "source": "Riverview High School, 11311, Boyette Road, Riverview, Hillsborough County, Florida, 33569, United States"
+  },
+  "Saint Petersburg Catholic High School|St. Petersburg": {
+    "lat": 27.7800331,
+    "lng": -82.6682661,
+    "source": "Saint Petersburg High School, 2501, 5th Avenue North, Historic Kenwood, Saint Petersburg, Pinellas County, Florida, 33710, United States"
+  },
+  "Sarasota High School|Sarasota": {
+    "lat": 27.3247143,
+    "lng": -82.5262722,
+    "source": "Sarasota High School, Championship Drive, Avondale, Sarasota, Sarasota County, Florida, 34326, United States"
+  },
+  "Seffner Christian Academy|Seffner": {
+    "lat": 27.9984839,
+    "lng": -82.304476,
+    "source": "Seffner Christian Academy, 11605, Mango, Hillsborough County, Florida, 33584, United States"
+  },
+  "Seminole Senior High School|Seminole": {
+    "lat": 28.778723,
+    "lng": -81.2836045,
+    "source": "Seminole High School, Lakeview Drive, Dreamworld, Sanford, Seminole County, Florida, 32773, United States"
+  },
+  "Shorecrest Preparatory High School|St. Petersburg": {
+    "lat": 27.8125,
+    "lng": -82.6291,
+    "source": "manual: 5101 1st St NE, St. Petersburg FL"
+  },
+  "Simmons Career Center|Plant City": {
+    "lat": 28.0045796,
+    "lng": -82.1346837,
+    "source": "Simmons Career Center School, South Gibbs Street, Plant City, Hillsborough County, Florida, 33563, United States"
+  },
+  "Slam Tampa|Tampa": {
+    "lat": 28.018,
+    "lng": -82.395,
+    "source": "manual: SLAM Tampa (approx)"
+  },
+  "Southeast High School|Bradenton": {
+    "lat": 27.4683737,
+    "lng": -82.5506524,
+    "source": "Southeast High School, 34th Avenue East, West Samoset, South Bradenton, Manatee County, Florida, 34208, United States"
+  },
+  "Spoto High School|Riverview": {
+    "lat": 27.8842231,
+    "lng": -82.3522069,
+    "source": "Spoto High School, Moonlit Meadows Loop, Progress Village, Hillsborough County, Florida, 33568, United States"
+  },
+  "Strawberry Crest High School|Plant City": {
+    "lat": 28.0228805,
+    "lng": -82.2359602,
+    "source": "Strawberry Crest High School (IB), North Gallagher Road, Dover, Hillsborough County, Florida, 33527, United States"
+  },
+  "Sumner High School|Riverview": {
+    "lat": 27.771991,
+    "lng": -82.3275937,
+    "source": "Sumner High School, 10650, Balm Road, Hillsborough County, Florida, 33579, United States"
+  },
+  "Suncoast Polytechnical High School|Sarasota": {
+    "lat": 27.2985,
+    "lng": -82.4712,
+    "source": "manual: 4445 Career Ln, Sarasota FL"
+  },
+  "Sunlake High School|Land O' Lakes": {
+    "lat": 28.200678,
+    "lng": -82.5071371,
+    "source": "Sunlake High School, 3023, Sunlake Boulevard, Concord Station, Land O' Lakes, Pasco County, Florida, 34638, United States"
+  },
+  "The Out-of-door Academy|Sarasota": {
+    "lat": 27.3025,
+    "lng": -82.5535,
+    "source": "manual: 5950 Deer Dr, Sarasota FL"
+  },
+  "Thomas Jefferson High School|Tampa": {
+    "lat": 27.9537836,
+    "lng": -82.5200663,
+    "source": "Jefferson High School, 4401, West Cypress Street, Entrada, Tampa, Hillsborough County, Florida, 33607, United States"
+  },
+  "Tr Robinson High School|Tampa": {
+    "lat": 27.876,
+    "lng": -82.501,
+    "source": "manual: T.R. Robinson HS, 6311 S Lois Ave, Tampa FL"
+  },
+  "Walter Sickles High School|Tampa": {
+    "lat": 28.0454,
+    "lng": -82.5862,
+    "source": "manual: 7950 Gunn Hwy, Tampa FL"
+  },
+  "Wharton High School|Tampa": {
+    "lat": 28.1592223,
+    "lng": -82.3565065,
+    "source": "Wharton High School, Umbria Hill Drive, Hammocks, Tampa, Hillsborough County, Florida, 33645, United States"
+  },
+  "Aubrey Rogers High School|Naples": {
+    "lat": 26.2991671,
+    "lng": -81.7843381,
+    "source": "Aubrey Rogers High School, Veterans Memorial Boulevard, Collier County, Florida, 34110, United States"
+  },
+  "Barron Collier High School|Naples": {
+    "lat": 26.2176653,
+    "lng": -81.7618323,
+    "source": "Barron Collier High School, Osceola Trail, Collier County, Florida, 35105, United States"
+  },
+  "Bishop Verot Catholic High School|Fort Myers": {
+    "lat": 26.5886854,
+    "lng": -81.8855484,
+    "source": "Bishop Verot High School, Sunrise Drive, Fort Myers, Lee County, Florida, 33919, United States"
+  },
+  "Canterbury High School|Fort Myers": {
+    "lat": 26.5632,
+    "lng": -81.928,
+    "source": "manual: Canterbury School, 8141 College Pkwy, Fort Myers FL"
+  },
+  "Cape Coral High School|Cape Coral": {
+    "lat": 26.6088372,
+    "lng": -81.9774259,
+    "source": "Cape Coral High School, Southwest 2nd Court, Cape Coral, Lee County, Florida, 33914, United States"
+  },
+  "Charlotte High School|Punta Gorda": {
+    "lat": 26.9268917,
+    "lng": -82.0370203,
+    "source": "Charlotte High School, Carmalita Street, Solana, Punta Gorda, Charlotte County, Florida, 33950, United States"
+  },
+  "Clewiston High School|Clewiston": {
+    "lat": 26.7416032,
+    "lng": -80.9252338,
+    "source": "Clewiston High School, 1501, South Francisco Street, Fairgrounds, Clewiston, Hendry County, Florida, 33440, United States"
+  },
+  "Community School of Naples|Naples": {
+    "lat": 26.2168596,
+    "lng": -81.7540699,
+    "source": "Community School of Naples, Osceola Trail, Golden Gate Estates, Collier County, Florida, 35105, United States"
+  },
+  "Cypress Lake High School|Fort Myers": {
+    "lat": 26.5407893,
+    "lng": -81.9013921,
+    "source": "Cypress Lake High School, Panther Lane, Myerlee, Cypress Lake, Lee County, Florida, 33919, United States"
+  },
+  "Dunbar High School|Fort Myers": {
+    "lat": 26.631187,
+    "lng": -81.834215,
+    "source": "Dunbar High School, 3800, Canal Street, Fort Myers, Lee County, Florida, 33916, United States"
+  },
+  "Estero High School|Estero": {
+    "lat": 26.4222737,
+    "lng": -81.7981695,
+    "source": "Estero High School, 21900, River Ranch Road, The Lakes of Estero, Shadow Wood, Estero, Lee County, Florida, 33928, United States"
+  },
+  "First Baptist Academy|Naples": {
+    "lat": 26.2313414,
+    "lng": -81.7566903,
+    "source": "First Baptist Academy, Orange Blossom Drive, Collier County, Florida, 34109, United States"
+  },
+  "Fort Myers High School|Fort Myers": {
+    "lat": 26.627621,
+    "lng": -81.8776752,
+    "source": "Fort Myers High School, 2635, Cortez Boulevard, Edison Park Historic District, Fort Myers, Lee County, Florida, 33901, United States"
+  },
+  "Gateway Charter High School|Fort Myers": {
+    "lat": 26.5566426,
+    "lng": -81.7520368,
+    "source": "Gateway Charter High School, 12770, Gateway Boulevard, Gateway, Fort Myers, Lee County, Florida, 33913, United States"
+  },
+  "Golden Gate High School|Naples": {
+    "lat": 26.1672996,
+    "lng": -81.6996925,
+    "source": "Golden Gate High School, Titan Way, Collier County, Florida, 34116, United States"
+  },
+  "Gulf Coast High School|Naples": {
+    "lat": 26.2706993,
+    "lng": -81.7073107,
+    "source": "Gulf Coast High School, Laurel Oak Lane, Collier County, Florida, 34119, United States"
+  },
+  "Ida Baker High School|Cape Coral": {
+    "lat": 26.5875357,
+    "lng": -82.0167837,
+    "source": "Ida S. Baker High School, Agualinda Boulevard, Cape Coral, Lee County, Florida, 33914, United States"
+  },
+  "Immokalee High School|Immokalee": {
+    "lat": 26.4242548,
+    "lng": -81.4226614,
+    "source": "Immokalee High School, Immokalee Drive, Immokalee, Collier County, Florida, 34142, United States"
+  },
+  "Island Coast High School|Cape Coral": {
+    "lat": 26.7275044,
+    "lng": -81.9301803,
+    "source": "Island Coast High School, 2125, De Navarra Parkway, Cape Coral, Lee County, Florida, 33909, United States"
+  },
+  "Lely High School|Naples": {
+    "lat": 26.0877798,
+    "lng": -81.7174288,
+    "source": "Lely High School, Lely High School Boulevard, Prestwick Place, Naples Manor, Collier County, Florida, 34113, United States"
+  },
+  "Lorenzo Walker Technical High School|Naples": {
+    "lat": 26.1416259,
+    "lng": -81.7628219,
+    "source": "Lorenzo Walker Technical High School, Estey Avenue, East Naples, Collier County, Florida, 34104, United States"
+  },
+  "Naples High School|Naples": {
+    "lat": 26.1730979,
+    "lng": -81.795009,
+    "source": "Naples High School, 13th Street North, Sun Terrace, Naples, Collier County, Florida, 34103, United States"
+  },
+  "North Fort Myers High School|North Fort Myers": {
+    "lat": 26.6626033,
+    "lng": -81.9126478,
+    "source": "North Fort Myers High School, Iris Drive, Palm Island, North Fort Myers, Lee County, Florida, 33903, United States"
+  },
+  "Alexander W. Dreyfoos School Of The Arts|West Palm Beach": {
+    "lat": 26.7078,
+    "lng": -80.0596,
+    "source": "manual: 501 S Sapodilla Ave, West Palm Beach FL"
+  },
+  "American Heritage School - Palm Beach Campus|Delray Beach": {
+    "lat": 26.4259,
+    "lng": -80.1581,
+    "source": "manual: 6200 Linton Blvd, Delray Beach FL"
+  },
+  "Atlantic Community High School|Delray Beach": {
+    "lat": 26.4564,
+    "lng": -80.099,
+    "source": "manual: 2455 W Atlantic Ave, Delray Beach FL"
+  },
+  "Boca Prep International School|Boca Raton": {
+    "lat": 26.3662897,
+    "lng": -80.2097072,
+    "source": "Boca Prep International, 10333, Diego Drive South, Mission Bay, Boca Raton, Palm Beach County, Florida, 33428, United States"
+  },
+  "Boca Raton Community High School|Boca Raton": {
+    "lat": 26.3652407,
+    "lng": -80.1169732,
+    "source": "Boca Raton Community High School, 1501, Southwest 15th Court, Paradise Palms, Boca Raton, Palm Beach County, Florida, 33486, United States"
+  },
+  "Dr. Joaquin Garcia High School|Lake Worth": {
+    "lat": 26.6042218,
+    "lng": -80.186704,
+    "source": "Dr. Joaquin Garcia High School, 4906, Lyons Road, Palm Beach County, Florida, 33467, United States"
+  },
+  "Florida Atlantic University High School|Boca Raton": {
+    "lat": 26.3743519,
+    "lng": -80.0951131,
+    "source": "Florida Atlantic University High School, El Rio Trail, Boca Raton, Palm Beach County, Florida, 33431, United States"
+  },
+  "Florida Preparatory Academy|Melbourne FL": {
+    "lat": 28.064271,
+    "lng": -80.623004,
+    "source": "Florida Institute of Technology, South Vassar Street, Melbourne, Brevard County, Florida, 32901, United States"
+  },
+  "Fort Pierce Westwood Academy|Fort Pierce": {
+    "lat": 27.4445,
+    "lng": -80.3483,
+    "source": "manual: 1801 Panther Ln, Fort Pierce FL"
+  },
+  "G - Star School Of The Arts|Palm Springs": {
+    "lat": 26.6466049,
+    "lng": -80.0859606,
+    "source": "G-Star School Of The Arts, 2065, Prairie Road, Palm Springs, Palm Beach County, Florida, 33406, United States"
+  },
+  "Grandview Preparatory School|Boca Raton": {
+    "lat": 26.3849,
+    "lng": -80.1106,
+    "source": "manual: 336 Spanish River Blvd, Boca Raton FL"
+  },
+  "John I. Leonard High School|Greenacres": {
+    "lat": 26.6314719,
+    "lng": -80.1180485,
+    "source": "John I Leonard High School, 4701, 10th Avenue North, Greenacres, Palm Beach County, Florida, 33463, United States"
+  },
+  "Jupiter Christian School|Jupiter": {
+    "lat": 26.9286989,
+    "lng": -80.1039986,
+    "source": "Jupiter Community High School, West South Road, Jupiter, Palm Beach County, Florida, 33458, United States"
+  },
+  "Jupiter High School|Jupiter": {
+    "lat": 26.9286989,
+    "lng": -80.1039986,
+    "source": "Jupiter Community High School, 8th Street, Jupiter, Palm Beach County, Florida, 33458, United States"
+  },
+  "Lincoln Park Academy|Fort Pierce": {
+    "lat": 27.4593446,
+    "lng": -80.3437268,
+    "source": "Lincoln Park Academy, 1806, Avenue I, Fort Pierce, Saint Lucie County, Florida, 34950, United States"
+  },
+  "Martin County High School|Stuart": {
+    "lat": 27.1700682,
+    "lng": -80.2482718,
+    "source": "Martin County High School, Southeast Willoughby Boulevard, Stuart, Martin County, Florida, 35994, United States"
+  },
+  "Okeechobee High School|Okeechobee": {
+    "lat": 27.2675844,
+    "lng": -80.8277165,
+    "source": "Okeechobee High School, 2800, US 441, Okeechobee County, Florida, 34972, United States"
+  },
+  "Olympic Heights High School|Boca Raton": {
+    "lat": 26.3767657,
+    "lng": -80.1894273,
+    "source": "Olympic Heights Community High School, 20101, Lyons Road, Century Village Boca Raton, Boca Raton, Palm Beach County, Florida, 33434, United States"
+  },
+  "Oxbridge High School|West Palm Beach": {
+    "lat": 26.7494,
+    "lng": -80.09,
+    "source": "manual: 3151 N Military Trail, West Palm Beach FL"
+  },
+  "Palm Beach Central High School|Wellington": {
+    "lat": 26.6525065,
+    "lng": -80.1786238,
+    "source": "Palm Beach Central High School, Lyons Road, Wellington, Palm Beach County, Florida, 33447, United States"
+  },
+  "Park Vista Community High School|Lake Worth": {
+    "lat": 26.5586807,
+    "lng": -80.1438275,
+    "source": "Park Vista Community High School, 7900, Jog Road, Aberdeen, Palm Beach County, Florida, 33467, United States"
+  },
+  "Port Saint Lucie High School|Port St. Lucie": {
+    "lat": 27.3058075,
+    "lng": -80.2822549,
+    "source": "Port Saint Lucie High School, 1201, Southeast Lennard Road, Port Saint Lucie, Saint Lucie County, Florida, 34952, United States"
+  },
+  "Royal Palm Beach High School|Royal Palm Beach": {
+    "lat": 26.7076272,
+    "lng": -80.2096796,
+    "source": "Royal Palm Beach High School, Okeechobee Boulevard, Royal Palm Beach, Palm Beach County, Florida, 33411, United States"
+  },
+  "Saint Andrew's School|Boca Raton": {
+    "lat": 26.3841001,
+    "lng": -80.1440969,
+    "source": "Saint Andrew's School, 3900, Jog Road, Boca Raton, Palm Beach County, Florida, 33434, United States"
+  },
+  "Saint Edward's School|Vero Beach": {
+    "lat": 27.6001318,
+    "lng": -80.3391717,
+    "source": "Saint Edward's School, 1895, Saint Edwards Drive, Vero Beach, Indian River County, Florida, 32963, United States"
+  },
+  "Saint John Paul II Academy|Boca Raton": {
+    "lat": 26.3781,
+    "lng": -80.1232,
+    "source": "manual: 4001 N Military Trail, Boca Raton FL"
+  },
+  "Seminole Ridge High School|Loxahatchee": {
+    "lat": 26.7460986,
+    "lng": -80.3100792,
+    "source": "Seminole Ridge High School, 4601, Seminole Pratt Whitney Road, Westlake, Palm Beach County, Florida, 33470, United States"
+  },
+  "Somerset Academy Canyons|Boynton Beach": {
+    "lat": 26.5297143,
+    "lng": -80.1960322,
+    "source": "Somerset Academy Canyons, 9385, West Boynton Beach Boulevard, Boynton Beach, Palm Beach County, Florida, 33472, United States"
+  },
+  "South Fork High School|Stuart": {
+    "lat": 27.0799677,
+    "lng": -80.2528636,
+    "source": "South Fork High School, I 95, Martin County, Florida, United States"
+  },
+  "SouthTech Academy|Boynton Beach": {
+    "lat": 26.5142312,
+    "lng": -80.141733,
+    "source": "SouthTech Academy, 6161, Woolbright Road, Boynton Beach, Palm Beach County, Florida, 33437, United States"
+  },
+  "Spanish River High School|Boca Raton": {
+    "lat": 26.3987911,
+    "lng": -80.1445616,
+    "source": "Spanish River Community High School, 5100, Jog Road, Boca Raton, Palm Beach County, Florida, 33496, United States"
+  },
+  "St. Lucie West Centennial High School|Port St. Lucie": {
+    "lat": 27.2724,
+    "lng": -80.4035,
+    "source": "manual: 1485 SW Cashmere Blvd, Port St. Lucie FL"
+  },
+  "Suncoast Community High School|Riviera Beach": {
+    "lat": 26.7779303,
+    "lng": -80.083571,
+    "source": "Suncoast Community High School, West 18th Street, Riviera Beach, Palm Beach County, Florida, 33404, United States"
+  },
+  "The Benjamin School|Palm Beach Gardens": {
+    "lat": 26.8773152,
+    "lng": -80.1105838,
+    "source": "The Benjamin School, 4875, Grandiflora Road, Palm Beach Gardens, Palm Beach County, Florida, 33418, United States"
+  },
+  "The Greene School|West Palm Beach": {
+    "lat": 26.725,
+    "lng": -80.078,
+    "source": "manual: West Palm Beach FL (approx)"
+  },
+  "The Pine School|Stuart": {
+    "lat": 27.0521137,
+    "lng": -80.1388679,
+    "source": "The Pine School, 12350, Southeast Federal Highway, Hobe Sound, Martin County, Florida, 33455, United States"
+  },
+  "Treasure Coast High School|Port St. Lucie": {
+    "lat": 27.2448188,
+    "lng": -80.3651323,
+    "source": "Treasure Coast High School, Southwest Darwin Boulevard, Port Saint Lucie, Saint Lucie County, Florida, 34953, United States"
+  },
+  "Wellington High School|Wellington": {
+    "lat": 26.6501339,
+    "lng": -80.2660801,
+    "source": "Wellington High School, Greenview Shores Boulevard, Wellington, Palm Beach County, Florida, 33414, United States"
+  },
+  "West Boca Raton Community High School|Boca Raton": {
+    "lat": 26.3601542,
+    "lng": -80.250326,
+    "source": "West Boca Raton Community High School, 12811, Glades Road, Boca Raton, Palm Beach County, Florida, 33498, United States"
+  },
+  "William T Dwyer High School|Palm Beach Gardens": {
+    "lat": 26.8772632,
+    "lng": -80.1063527,
+    "source": "William T Dwyer High School, North Military Trail, Palm Beach Gardens, Palm Beach County, Florida, 33410, United States"
+  },
+  "American Heritage School Broward|Plantation": {
+    "lat": 26.1194711,
+    "lng": -80.3080129,
+    "source": "American Heritage School, 12200, West Broward Boulevard, Melaleuca Isles, Plantation, Broward County, Florida, 33325, United States"
+  },
+  "Archbishop Mccarthy High School|Southwest Ranches": {
+    "lat": 26.0514183,
+    "lng": -80.3146773,
+    "source": "Archbishop Edward A. McCarthy High School, South Flamingo Road, Cooper City, Broward County, Florida, 33330, United States"
+  },
+  "Calvary Christian Academy|Fort Lauderdale": {
+    "lat": 26.2044329,
+    "lng": -80.1760761,
+    "source": "Calvary Christian Academy, 2401, West Cypress Creek Road, Fort Lauderdale, Broward County, Florida, 33309, United States"
+  },
+  "Cardinal Gibbons High School|Fort Lauderdale": {
+    "lat": 26.1839219,
+    "lng": -80.1096195,
+    "source": "Cardinal Gibbons High School, 2900, Northeast 47th Street, Coral Ridge Isles, Fort Lauderdale, Broward County, Florida, 33308, United States"
+  },
+  "Chaminade - Madonna College Preparatory|Hollywood": {
+    "lat": 26.0143669,
+    "lng": -80.1958857,
+    "source": "Chaminade-Madonna College Preparatory, Polk Street, Hollywood, Broward County, Florida, 33021, United States"
+  },
+  "Cooper City High School|Cooper City": {
+    "lat": 26.0465873,
+    "lng": -80.2735205,
+    "source": "Cooper City High School, 9401, Stirling Road, Cooper City, Broward County, Florida, 33328, United States"
+  },
+  "Coral Glades High School|Coral Springs": {
+    "lat": 26.2633793,
+    "lng": -80.2952765,
+    "source": "Coral Glades High School, 2700, Sportsplex Drive, Coral Springs, Broward County, Florida, 33065, United States"
+  },
+  "Coral Springs Charter School|Coral Springs": {
+    "lat": 26.2707491,
+    "lng": -80.2485588,
+    "source": "Coral Springs Charter School, 3205, North University Drive, Coral Springs, Broward County, Florida, 33065, United States"
+  },
+  "Cypress Bay High School|Weston": {
+    "lat": 26.0651389,
+    "lng": -80.3979252,
+    "source": "Cypress Bay High School, 18600, Vista Park Boulevard, Weston, Broward County, Florida, 33332, United States"
+  },
+  "Deerfield Beach High School|Deerfield Beach": {
+    "lat": 26.2954417,
+    "lng": -80.1175966,
+    "source": "Deerfield Beach High School, Northeast 5th Terrace, Park Haven, Deerfield Beach, Broward County, Florida, 33064, United States"
+  },
+  "Everglades High School|Miramar": {
+    "lat": 25.9686564,
+    "lng": -80.3733106,
+    "source": "Everglades High School, Southwest 172nd Avenue, Miramar, Broward County, Florida, 33029, United States"
+  },
+  "Flanagan High School|Pembroke Pines": {
+    "lat": 26.020823,
+    "lng": -80.3223752,
+    "source": "Flanagan High School, Taft Street, Pembroke Pines, Broward County, Florida, 33028, United States"
+  },
+  "Fort Lauderdale High School|Fort Lauderdale": {
+    "lat": 26.1492754,
+    "lng": -80.1391499,
+    "source": "Fort Lauderdale High School, 1600, Northeast 4th Avenue, Fort Lauderdale, Broward County, Florida, 33305, United States"
+  },
+  "Franklin Academy|Pembroke Pines": {
+    "lat": 26.0563991,
+    "lng": -80.4248523,
+    "source": "Franklin Academy, Southwest 207th Terrace, Pembroke Pines, Broward County, Florida, 33332, United States"
+  },
+  "Hollywood Hills High School|Hollywood": {
+    "lat": 26.0450326,
+    "lng": -80.1985384,
+    "source": "Hollywood Hills High School, Hollywood, Broward County, Florida, 33021, United States"
+  },
+  "J P Taravella High School|Coral Springs": {
+    "lat": 26.2322229,
+    "lng": -80.2680929,
+    "source": "J P Taravella High School, Coral Springs Drive, Coral Springs, Broward County, Florida, 33071, United States"
+  },
+  "Marjory Stoneman Douglas High School|Parkland": {
+    "lat": 26.3044597,
+    "lng": -80.2694856,
+    "source": "Marjory Stoneman Douglas High School, 5901, Pine Island Road, Parkland, Broward County, Florida, 33076, United States"
+  },
+  "Millennium Collegiate Academy|Tamarac": {
+    "lat": 26.1962,
+    "lng": -80.2649,
+    "source": "manual: 5803 NW 94th Ave, Tamarac FL"
+  },
+  "Miramar High School|Miramar": {
+    "lat": 25.9760566,
+    "lng": -80.2605902,
+    "source": "Miramar High School, South Douglas Road, Miramar, Broward County, Florida, 33025, United States"
+  },
+  "Monarch High School|Coconut Creek": {
+    "lat": 26.2839387,
+    "lng": -80.1918261,
+    "source": "Monarch High School, Wiles Road, Coconut Creek, Broward County, Florida, 33073, United States"
+  },
+  "North Broward Preparatory School|Coconut Creek": {
+    "lat": 26.326333,
+    "lng": -80.1827401,
+    "source": "North Broward Preparatory School, 7600, Lyons Road, Coconut Creek, Broward County, Florida, 33073, United States"
+  },
+  "Nova High School|Davie": {
+    "lat": 26.0761619,
+    "lng": -80.2367691,
+    "source": "Nova High School, Broward College, Playland Village, Davie, Broward County, Florida, 33314, United States"
+  },
+  "Nova Southeastern University School|Davie": {
+    "lat": 25.9294368,
+    "lng": -80.166031,
+    "source": "Nova Southeastern University Fischer Center, Northeast 167th Street, North Miami Beach, Miami-Dade County, Florida, 33162, United States"
+  },
+  "Pembroke Pines Charter High School|Pembroke Pines": {
+    "lat": 26.0303,
+    "lng": -80.3539,
+    "source": "manual: 17189 Sheridan St, Pembroke Pines FL"
+  },
+  "Pine Crest School|Fort Lauderdale": {
+    "lat": 26.2049335,
+    "lng": -80.1271396,
+    "source": "Pine Crest Preparatory School, 1501, Northeast 62nd Street, Fort Lauderdale, Broward County, Florida, 33334, United States"
+  },
+  "Piper High School|Sunrise": {
+    "lat": 26.1777398,
+    "lng": -80.2582785,
+    "source": "Piper High School, 8000, Northwest 44th Street, Sunrise, Broward County, Florida, 33351, United States"
+  },
+  "Plantation High School|Plantation": {
+    "lat": 26.1465404,
+    "lng": -80.2417858,
+    "source": "Plantation High School, 6901, Northwest 16th Street, Sunrise Heights, Plantation, Broward County, Florida, 33313, United States"
+  },
+  "Pompano Beach High School|Pompano Beach": {
+    "lat": 26.2374724,
+    "lng": -80.1097101,
+    "source": "Pompano Beach High School, 600, Northeast 13th Avenue, Pompano Beach, Broward County, Florida, 33060, United States"
+  },
+  "South Broward High School|Hollywood": {
+    "lat": 26.0291407,
+    "lng": -80.1408934,
+    "source": "South Broward High School, 1901, Federal Highway, Hollywood, Broward County, Florida, 33020, United States"
+  },
+  "South Plantation High School|Plantation": {
+    "lat": 26.1039119,
+    "lng": -80.2197644,
+    "source": "South Plantation High School, Southwest 54th Avenue, Plantation Isles, Plantation, Broward County, Florida, 33317, United States"
+  },
+  "Stranahan High School|Fort Lauderdale": {
+    "lat": 26.1120677,
+    "lng": -80.1648035,
+    "source": "Stranahan High School, 1800, Southwest 5th Place, Fort Lauderdale, Broward County, Florida, 33312, United States"
+  },
+  "The Sagemont School|Weston": {
+    "lat": 26.1379363,
+    "lng": -80.4240649,
+    "source": "The Sagemont Upper School, 2585, Glades Circle, Weston, Broward County, Florida, 33327, United States"
+  },
+  "West Broward High School|Pembroke Pines": {
+    "lat": 26.0127515,
+    "lng": -80.4306959,
+    "source": "West Broward High School, Northwest 4th Street, Pembroke Pines, Broward County, Florida, 33029, United States"
+  },
+  "Western High School|Davie": {
+    "lat": 26.1059225,
+    "lng": -80.3280508,
+    "source": "Western High School, Davie, Broward County, Florida, 33325, United States"
+  },
+  "Westminster Academy|Fort Lauderdale": {
+    "lat": 26.1972277,
+    "lng": -80.112575,
+    "source": "Westminster Academy, 5601, North Federal Highway, The Landlings, Imperial Point, Fort Lauderdale, Broward County, Florida, 33308, United States"
+  },
+  "Alonzo & Tracy Mourning Senior High School|North Miami": {
+    "lat": 25.9168388,
+    "lng": -80.1470608,
+    "source": "Alonzo and Tracy Mourning Senior High School, 2061, Northeast 151st Street, North Miami, Miami-Dade County, Florida, 33160, United States"
+  },
+  "American Senior High School|Hialeah": {
+    "lat": 25.9386693,
+    "lng": -80.3085555,
+    "source": "American Senior High School, Northwest 67th Avenue, Miami-Dade County, Florida, 33015, United States"
+  },
+  "Barbara Goleman Senior High School|Hialeah": {
+    "lat": 25.9023605,
+    "lng": -80.3465129,
+    "source": "Barbara Goleman Senior High School, 14100, Northwest 89th Avenue, Miami Lakes, Miami-Dade County, Florida, 33018, United States"
+  },
+  "Belen Jesuit Preparatory High School|Miami": {
+    "lat": 25.7481,
+    "lng": -80.4147,
+    "source": "manual: 500 SW 127th Ave, Miami FL"
+  },
+  "Carrollton School Of The Sacred Heart|Miami": {
+    "lat": 25.6964909,
+    "lng": -80.2719952,
+    "source": "Carrollton School of the Sacred Heart, Ponce de Leon Road, Coral Gables, Miami-Dade County, Florida, 33124, United States"
+  },
+  "Centner Academy Middle And High School|Miami": {
+    "lat": 25.815,
+    "lng": -80.1931,
+    "source": "manual: 4136 N Miami Ave, Miami FL"
+  },
+  "Christopher Columbus High School|Miami": {
+    "lat": 25.7412541,
+    "lng": -80.3360468,
+    "source": "Christopher Columbus High School, Southwest 87th Avenue, Coral Way Village, Miami-Dade County, Florida, 33165, United States"
+  },
+  "Coral Reef Senior High School|Pinecrest": {
+    "lat": 25.6310477,
+    "lng": -80.355763,
+    "source": "Coral Reef Senior High School, Southwest 148th Terrace, Kendall, Miami-Dade County, Florida, 33176, United States"
+  },
+  "Cutler Bay Senior High School|Cutler Bay": {
+    "lat": 25.5717181,
+    "lng": -80.3304829,
+    "source": "Cutler Bay Senior High, Southwest 86th Avenue, Lakes by the Bay, Cutler Bay, Miami-Dade County, Florida, 33189, United States"
+  },
+  "Divine Savior Academy|Doral": {
+    "lat": 25.7934,
+    "lng": -80.3473,
+    "source": "manual: 1500 NW 89th Ct, Doral FL"
+  },
+  "Don Soffer Aventura High School|Aventura": {
+    "lat": 25.9734295,
+    "lng": -80.1369393,
+    "source": "Don Soffer Aventura High School, 3151, Northeast 213th Street, Aventura, Miami-Dade County, Florida, 33180, United States"
+  },
+  "Downtown Doral Upper School|Doral": {
+    "lat": 25.8045,
+    "lng": -80.3372,
+    "source": "manual: 8455 NW 53rd St, Doral FL"
+  },
+  "Dr. Michael Krop Sr. High|Miami": {
+    "lat": 25.9716,
+    "lng": -80.1463,
+    "source": "manual: 1410 NE 215th St, Miami FL"
+  },
+  "Felix Varela Senior High School|Miami": {
+    "lat": 25.6798213,
+    "lng": -80.4427065,
+    "source": "Felix Varela High School, Southwest 153rd Passage, The Hammocks, Miami-Dade County, Florida, 33193, United States"
+  },
+  "G Holmes Braddock Senior High|Miami": {
+    "lat": 25.7336958,
+    "lng": -80.4298508,
+    "source": "G Holmes Braddock Senior High School, Southwest 147th Avenue, Miami-Dade County, Florida, 33193, United States"
+  },
+  "Gulliver Preparatory School|Coral Gables": {
+    "lat": 25.6902787,
+    "lng": -80.3002593,
+    "source": "Gulliver Preparatory School, 6575, Southwest 88th Street, Pinecrest, Miami-Dade County, Florida, 33156, United States"
+  },
+  "Hialeah - Miami Lakes Senior High School|Hialeah": {
+    "lat": 25.8965633,
+    "lng": -80.3052919,
+    "source": "Hialeah-Miami Lakes Senior High School, West 10th Avenue, Hialeah, Miami-Dade County, Florida, 33014, United States"
+  },
+  "Hialeah Gardens Senior High School|Hialeah Gardens": {
+    "lat": 25.8799449,
+    "lng": -80.3534686,
+    "source": "Hialeah Gardens High School, 11700, Hialeah Gardens Boulevard, Hialeah Gardens, Miami-Dade County, Florida, 33018, United States"
+  },
+  "Hialeah Senior High School|Hialeah": {
+    "lat": 25.8661534,
+    "lng": -80.2756975,
+    "source": "Hialeah Senior High School, East 49th Street, Hialeah, Miami-Dade County, Florida, 33013, United States"
+  },
+  "Homestead Senior High School|Homestead": {
+    "lat": 25.4502857,
+    "lng": -80.4587475,
+    "source": "Homestead Senior High School, Palm Drive, Homestead, Miami-Dade County, Florida, 33035, United States"
+  },
+  "Immaculata Lasalle High School|Miami": {
+    "lat": 25.7381,
+    "lng": -80.2222,
+    "source": "manual: 3601 S Miami Ave, Miami FL"
+  },
+  "iPrep Academy|Miami": {
+    "lat": 25.789827,
+    "lng": -80.1898991,
+    "source": "iPrep Academy, Northeast 15th Terrace, Miami, Miami-Dade County, Florida, 33132, United States"
+  },
+  "John A Ferguson High School|Miami": {
+    "lat": 25.7113961,
+    "lng": -80.4520005,
+    "source": "John A Ferguson High School, Southwest 159th Court, Miami-Dade County, Florida, 33193, United States"
+  },
+  "Mast Academy|Miami": {
+    "lat": 25.7390456,
+    "lng": -80.1666307,
+    "source": "Mast Academy, 3979, Rickenbacker Causeway, Miami, Miami-Dade County, Florida, 33149, United States"
+  },
+  "Mater Academy|Hialeah Gardens": {
+    "lat": 25.8678206,
+    "lng": -80.3256632,
+    "source": "Mater Academy Charter Middle/High School, 7901, Northwest 103rd Street, Hialeah Gardens, Miami-Dade County, Florida, 33016, United States"
+  },
+  "Miami Arts Studio|Miami": {
+    "lat": 25.7218,
+    "lng": -80.298,
+    "source": "manual: 6800 SW 60th St, Miami FL"
+  },
+  "Miami Beach Senior High|Miami Beach": {
+    "lat": 25.7995131,
+    "lng": -80.1323763,
+    "source": "Miami Beach Senior High School, 2231, Prairie Avenue, Miami Beach, Miami-Dade County, Florida, 33139, United States"
+  },
+  "Miami Central Senior High School|Miami": {
+    "lat": 25.8637893,
+    "lng": -80.2280507,
+    "source": "Miami Central High School, Northwest 17th Avenue, Pinewood, Miami-Dade County, Florida, 33167, United States"
+  },
+  "Miami Country Day School|Miami": {
+    "lat": 25.8742621,
+    "lng": -80.183936,
+    "source": "Miami Country Day School, Northeast 107th Street, Miami Shores, Miami-Dade County, Florida, 33161, United States"
+  },
+  "Miami Jackson Senior High School|Miami": {
+    "lat": 25.8100978,
+    "lng": -80.2247709,
+    "source": "Miami Jackson Senior High School, Northwest 36th Street, Allapattah, Miami, Miami-Dade County, Florida, 33142, United States"
+  },
+  "Miami Lakes Educational Center|Miami Lakes": {
+    "lat": 25.838584,
+    "lng": -80.2147243,
+    "source": "Miami Lakes Educational Center, Northwest 71st Street, Avocado Trailer Park, Miami-Dade County, Florida, 33147, United States"
+  },
+  "Miami Norland Senior High School|Miami": {
+    "lat": 25.9520324,
+    "lng": -80.2188372,
+    "source": "Miami-Norland High School, Northwest 10th Place, Norland, Miami Gardens, Miami-Dade County, Florida, 33169, United States"
+  },
+  "Miami Northwestern Senior High|Miami": {
+    "lat": 25.8376611,
+    "lng": -80.2141539,
+    "source": "Miami Northwestern Senior High School, Northwest 10th Avenue, Liberty Square, Miami, Miami-Dade County, Florida, 33151, United States"
+  },
+  "Miami Palmetto Senior High School|Pinecrest": {
+    "lat": 25.6602709,
+    "lng": -80.3163195,
+    "source": "Miami Palmetto Senior High School, Southwest 118th Street, Suniland, Pinecrest, Miami-Dade County, Florida, 33156, United States"
+  },
+  "Miami Springs Senior High|Miami Springs": {
+    "lat": 25.8211,
+    "lng": -80.2971,
+    "source": "manual: 751 Dove Ave, Miami Springs FL"
+  },
+  "Miami Sunset Senior High School|Miami": {
+    "lat": 25.7021114,
+    "lng": -80.4047947,
+    "source": "Miami Sunset Senior High School, 13125, Southwest 72nd Street, Kendale Lakes, Miami, Miami-Dade County, Florida, 33183, United States"
+  },
+  "North Miami Beach Senior High School|North Miami Beach": {
+    "lat": 25.9309988,
+    "lng": -80.1752682,
+    "source": "North Miami Beach Senior High School, Northeast 13th Avenue, North Miami Beach, Miami-Dade County, Florida, 33162, United States"
+  },
+  "North Miami Senior High|North Miami": {
+    "lat": 25.8968507,
+    "lng": -80.1837074,
+    "source": "North Miami Senior High School, 13110, Northeast 8th Avenue, North Miami, Miami-Dade County, Florida, 33161, United States"
+  },
+  "Our Lady Of Lourdes Academy|Miami": {
+    "lat": 25.6930556,
+    "lng": -80.2830556,
+    "source": "Our Lady of Lourdes Academy, Southwest 84th Terrace, South Miami, Miami-Dade County, Florida, 33143, United States"
+  },
+  "Robert Morgan Educational Center|Miami": {
+    "lat": 25.5821,
+    "lng": -80.3885,
+    "source": "manual: 18180 SW 122nd Ave, Miami FL"
+  },
+  "Ronald Reagan Doral Senior High|Doral": {
+    "lat": 25.8524271,
+    "lng": -80.3726833,
+    "source": "Ronald W. Reagan/Doral High School, 8600, Northwest 107th Avenue, Doral, Miami-Dade County, Florida, 33178, United States"
+  },
+  "Scheck Hillel Community School|North Miami Beach": {
+    "lat": 25.9502778,
+    "lng": -80.1527778,
+    "source": "Samuel Scheck Hillel Community Day School, 19000, Northeast 25th Avenue, Ojus, Miami, Miami-Dade County, Florida, 33180, United States"
+  },
+  "School for Advanced Studies|Miami": {
+    "lat": 25.8811111,
+    "lng": -80.2438889,
+    "source": "School for Advanced Studies North, 1138, Northwest 27th Avenue, Westview, Miami, Miami-Dade County, Florida, 33167, United States"
+  },
+  "Southwest Miami High School|Miami": {
+    "lat": 25.7228034,
+    "lng": -80.3396445,
+    "source": "Southwest Miami Senior High School, 8855, Southwest 50th Terrace, Miami, Miami-Dade County, Florida, 33165, United States"
+  },
+  "Terra Environmental Research Institute|Miami": {
+    "lat": 25.6930255,
+    "lng": -80.3699227,
+    "source": "Terra Environmental Research Institute, 11005, Southwest 84th Street, Kendall, Miami-Dade County, Florida, 33173, United States"
+  },
+  "Turner Technical Arts High School|Miami": {
+    "lat": 25.8714,
+    "lng": -80.2303,
+    "source": "manual: 10151 NW 19th Ave, Miami FL"
+  },
+  "Westland Hialeah Senior High School|Hialeah": {
+    "lat": 25.8579466,
+    "lng": -80.3194833,
+    "source": "Westland Hialeah Senior High School, West 40th Street, Hibiscus Mobile Homes, Hialeah, Miami-Dade County, Florida, 33012, United States"
+  },
+  "Westminster Christian School|Palmetto Bay": {
+    "lat": 25.63178,
+    "lng": -80.3043814,
+    "source": "Westminster Christian School, 6855, Southwest 152nd Street, Palmetto Bay, Miami-Dade County, Florida, 33157, United States"
+  },
+  "Palms Glades Academy|Tallahassee": {
+    "lat": 30.4583,
+    "lng": -84.2533,
+    "source": "manual: Tallahassee FL (approx)"
+  },
+  "Dr. Marvin Dunn Academy|Jacksonville": {
+    "lat": 30.322,
+    "lng": -81.6557,
+    "source": "manual: Jacksonville FL (approx)"
+  },
+  "San Jose Early College At Cecil|Jacksonville": {
+    "lat": 30.2196,
+    "lng": -81.8783,
+    "source": "manual: Cecil Field, Jacksonville FL"
+  },
+  "Sandalwood Academy Of Hospitality|Jacksonville": {
+    "lat": 30.3145,
+    "lng": -81.5554,
+    "source": "manual: 2750 John Prom Blvd, Jacksonville FL (Sandalwood HS campus)"
+  },
+  "Rock High School|Gainesville": {
+    "lat": 29.6168,
+    "lng": -82.4527,
+    "source": "manual: The Rock School, 9818 SW 24th Ave, Gainesville FL"
+  },
+  "The Frazer School|Gainesville": {
+    "lat": 29.6383,
+    "lng": -82.3884,
+    "source": "manual: 3015 SW 35th Pl, Gainesville FL"
+  },
+  "Dwight Global|Orlando": {
+    "lat": 28.5384,
+    "lng": -81.3789,
+    "source": "manual: Orlando FL (online school, approx)"
+  },
+  "Edgewood Jr./Sr. High School|Merritt Island": {
+    "lat": 28.3620108,
+    "lng": -80.696998,
+    "source": "Edgewood Jr/Sr High School, 180, East Merritt Avenue, Merritt Island, Brevard County, Florida, 32953, United States"
+  },
+  "Lake Buena Vista High School|Orlando": {
+    "lat": 28.4041716,
+    "lng": -81.4926941,
+    "source": "Lake Buena Vista High School, 11305, Daryl Carter Parkway, Midtown, Orlando, Orange County, Florida, 32836, United States"
+  },
+  "Westshore Jr Sr High School|Melbourne": {
+    "lat": 28.0972,
+    "lng": -80.5944,
+    "source": "manual: 250 Wildcat Aly, Melbourne FL"
+  },
+  "Tenoroc High School|Lakeland": {
+    "lat": 28.083,
+    "lng": -81.8662,
+    "source": "manual: 4905 Saddle Creek Rd, Lakeland FL"
+  },
+  "McLaughlin Academy of Excellence|Lakeland": {
+    "lat": 28.0824,
+    "lng": -81.9783,
+    "source": "manual: 1701 Old Polk City Rd, Lakeland FL"
+  },
+  "The Classical Academy of Sarasota|Sarasota": {
+    "lat": 27.3406917,
+    "lng": -82.395931,
+    "source": "The Classical Academy of Sarasota, 8751, Fruitville Road, Lakewood Ranch, Sarasota County, Florida, 34240, United States"
+  },
+  "Cypress Palm Middle School|Naples": {
+    "lat": 26.2253,
+    "lng": -81.6126,
+    "source": "manual: 4255 18th Ave NE, Naples FL"
+  },
+  "Lexington Middle School|Fort Myers": {
+    "lat": 26.5341,
+    "lng": -81.9398,
+    "source": "manual: 16351 Summerlin Rd, Fort Myers FL"
+  },
+  "North Naples Middle School|Naples": {
+    "lat": 26.295,
+    "lng": -81.7601,
+    "source": "manual: 16165 Learning Ln, Naples FL"
+  },
+  "Legacy High School|Royal Palm Beach": {
+    "lat": 26.7079,
+    "lng": -80.2304,
+    "source": "manual: Royal Palm Beach FL (approx)"
+  },
+  "Watson B Duncan Middle School|Palm Beach Gardens": {
+    "lat": 26.8474895,
+    "lng": -80.1150142,
+    "source": "Watson B Duncan Middle School, 5150, 117th Court North, North Palm Beach, Palm Beach Gardens, Palm Beach County, Florida, 33418, United States"
+  },
+  "Xceed Prep|Boca Raton": {
+    "lat": 26.3683,
+    "lng": -80.1289,
+    "source": "manual: Boca Raton FL (approx)"
+  },
+  "Tradition Preparatory High School|Port St. Lucie": {
+    "lat": 27.2823,
+    "lng": -80.479,
+    "source": "manual: 10350 SW Discovery Way, Port St. Lucie FL"
+  },
+  "St. Thomas Aquinas High School|Fort Lauderdale": {
+    "lat": 26.1078646,
+    "lng": -80.1797687,
+    "source": "Saint Thomas Aquinas High School, Southwest 28th Avenue, Fort Lauderdale, Broward County, Florida, 33312, United States"
+  },
+  "Blanche Ely High School|Pompano Beach": {
+    "lat": 26.2419813,
+    "lng": -80.1325752,
+    "source": "Ely Blanche High School, Northwest 10th Street, Pompano Beach, Broward County, Florida, 33060, United States"
+  },
+  "Davie Conservatory Preparatory High School|Davie": {
+    "lat": 26.0628,
+    "lng": -80.2536,
+    "source": "manual: Davie FL (approx)"
+  },
+  "David Posnack Jewish Day School|Davie": {
+    "lat": 26.0658,
+    "lng": -80.286,
+    "source": "manual: 5850 S Pine Island Rd, Davie FL"
+  },
+  "Landow Jewish Academy|Hollywood": {
+    "lat": 26.0302,
+    "lng": -80.1932,
+    "source": "manual: 5800 Sheridan St, Hollywood FL"
+  },
+  "The Upper Sagemont School|Weston": {
+    "lat": 26.1379363,
+    "lng": -80.4240649,
+    "source": "The Sagemont Upper School, 2585, Glades Circle, Weston, Broward County, Florida, 33327, United States"
+  },
+  "Latin Builders Association Academy|Hialeah": {
+    "lat": 25.871,
+    "lng": -80.298,
+    "source": "manual: 7350 W 28th Ave, Hialeah FL"
+  },
+  "Palmer Trinity High School|Palmetto Bay": {
+    "lat": 25.6052,
+    "lng": -80.3393,
+    "source": "manual: 7900 SW 176th St, Palmetto Bay FL"
+  },
+  "Doctors Charter School|Miami Shores": {
+    "lat": 25.866,
+    "lng": -80.1843,
+    "source": "manual: 9600 NE 4th Ave, Miami Shores FL"
+  },
+  "Kia Preparatory School|Hialeah": {
+    "lat": 25.8576,
+    "lng": -80.2781,
+    "source": "manual: Hialeah FL (approx)"
+  },
+  "Mater Academy East Charter High School|Hialeah Gardens": {
+    "lat": 25.8861,
+    "lng": -80.327,
+    "source": "manual: Hialeah Gardens FL (approx)"
+  },
+  "Mater Brickell Academy|Miami": {
+    "lat": 25.7621,
+    "lng": -80.19,
+    "source": "manual: 1490 SE 1st Ave, Miami Brickell FL"
+  },
+  "Palm Springs Middle School|Hialeah": {
+    "lat": 25.875012,
+    "lng": -80.3048897,
+    "source": "Palm Springs Middle School, West 10th Avenue, Palm Springs, Hialeah, Miami-Dade County, Florida, 33012, United States"
+  },
+  "Renaissance Charter School|Doral": {
+    "lat": 25.8033333,
+    "lng": -80.3327778,
+    "source": "Renaissance Charter Middle School, 8360, Northwest 33rd Street, Doral, Miami-Dade County, Florida, 33122, United States"
+  },
+  "Rhema Word Christian Academy|Miami": {
+    "lat": 25.8108,
+    "lng": -80.2231,
+    "source": "manual: Miami FL (approx)"
+  },
+  "Riviera Preparatory School|Miami": {
+    "lat": 25.6787934,
+    "lng": -80.3346662,
+    "source": "Riviera Preparatory School, 9775, Southwest 87th Avenue, Miami, Miami-Dade County, Florida, 33176, United States"
+  },
+  "Slam North Miami Beach High School|North Miami Beach": {
+    "lat": 25.9286,
+    "lng": -80.182,
+    "source": "manual: 350 NE 167th St, North Miami Beach FL"
+  },
+  "Somerset Academy South Homestead|Homestead": {
+    "lat": 25.5264,
+    "lng": -80.391,
+    "source": "manual: 10100 SW 232nd St, Homestead FL"
+  },
+  "South Dade Senior High School|Homestead": {
+    "lat": 25.5023431,
+    "lng": -80.4592185,
+    "source": "South Dade Senior High School, 28401, Southwest 167th Avenue, Homestead, Miami-Dade County, Florida, 33030, United States"
+  },
+  "Sports Leadership & Management Charter Middle/High School|Miami": {
+    "lat": 25.7988,
+    "lng": -80.205,
+    "source": "manual: SLAM Miami, 2950 NW 7th Ave, Miami FL"
+  },
+  "True North Classical Academy|Miami": {
+    "lat": 25.7027484,
+    "lng": -80.3456999,
+    "source": "True North Classical Academy, 9393, Sunset Drive, Glenvar Heights, Miami, Miami-Dade County, Florida, 33173, United States"
+  }
+}

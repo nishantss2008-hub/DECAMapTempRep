@@ -20,7 +20,55 @@
 
 #fldeca-map-root .fldeca-leaflet {
   width: 100%;
-  height: 100%;
+  height: calc(100% - 56px);
+}
+
+/* State officer bar */
+#fldeca-map-root .fldeca-state-bar {
+  height: 56px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 20px;
+  background: linear-gradient(90deg, #0f487c 0%, #2a71b9 100%);
+  color: #fff;
+  box-shadow: 0 2px 8px rgba(15, 72, 124, 0.20);
+  z-index: 600;
+  position: relative;
+}
+#fldeca-map-root .fldeca-state-bar .brand {
+  font-weight: 700;
+  font-size: 14px;
+  letter-spacing: 0.2px;
+}
+#fldeca-map-root .fldeca-state-bar .execs {
+  display: flex;
+  gap: 24px;
+  align-items: center;
+}
+#fldeca-map-root .fldeca-state-bar .exec {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  line-height: 1.1;
+}
+#fldeca-map-root .fldeca-state-bar .role {
+  font-size: 9.5px;
+  text-transform: uppercase;
+  letter-spacing: 0.6px;
+  font-weight: 600;
+  color: #b8d4ee;
+}
+#fldeca-map-root .fldeca-state-bar .name {
+  font-size: 13px;
+  font-weight: 700;
+  margin-top: 2px;
+}
+@media (max-width: 640px) {
+  #fldeca-map-root .fldeca-state-bar { flex-direction: column; height: auto; padding: 10px 14px; gap: 6px; align-items: flex-start; }
+  #fldeca-map-root .fldeca-leaflet { height: calc(100% - 100px); }
+  #fldeca-map-root .fldeca-state-bar .execs { gap: 16px; }
+  #fldeca-map-root .fldeca-state-bar .exec { align-items: flex-start; }
 }
 
 /* District number markers */
