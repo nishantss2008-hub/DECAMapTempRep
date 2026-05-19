@@ -616,6 +616,7 @@ export function project(lng, lat) {
   return [x, y];
 }
 
+import * as turf from '@turf/turf';
 import GEOCODES from './schoolGeocodes.json';
 
 function jitter(idx, range) {
@@ -694,14 +695,43 @@ Object.keys(DISTRICTS).forEach(d => {
 
 // Lat/Lng-space district hulls for use with Leaflet (returns [lat, lng] pairs).
 export const DISTRICT_LATLNG = {};
+const flOutlinePoly = turf.polygon([FL_OUTLINE]);
+
 Object.keys(DISTRICTS).forEach(d => {
   const pts = SCHOOLS.filter(s => s.d == d).map(s => [s.lng, s.lat]);
-  if (!pts.length) return;
-  const hull = convexHull(pts);
+  if (pts.length < 3) return; // need at least 3 points for a valid polygon
+
+  let hullCoords = convexHull(pts);
+  if (hullCoords.length > 0 && 
+      (hullCoords[0][0] !== hullCoords[hullCoords.length-1][0] || 
+       hullCoords[0][1] !== hullCoords[hullCoords.length-1][1])) {
+    hullCoords.push(hullCoords[0]); // close the ring for turf
+  }
+  
+  let districtPoly = turf.polygon([hullCoords]);
+  // Add padding and curvature
+  districtPoly = turf.buffer(districtPoly, 2, { units: 'miles' });
+  
+  // Cut off water
+  let clipped = turf.intersect(turf.featureCollection([districtPoly, flOutlinePoly]));
+  if (!clipped) {
+    clipped = districtPoly; 
+  }
+
+  // Convert to Leaflet format
+  let finalPolygons = [];
+  if (clipped.geometry.type === 'Polygon') {
+    // Convert [lng, lat] to [lat, lng]
+    // Leaflet Polygon accepts an array of LatLngs for simple polygon, or array of arrays for holes
+    finalPolygons = clipped.geometry.coordinates.map(ring => ring.map(p => [p[1], p[0]]));
+  } else if (clipped.geometry.type === 'MultiPolygon') {
+    finalPolygons = clipped.geometry.coordinates.map(poly => poly.map(ring => ring.map(p => [p[1], p[0]])));
+  }
+
   const cLat = pts.reduce((s,p)=>s+p[1],0) / pts.length;
   const cLng = pts.reduce((s,p)=>s+p[0],0) / pts.length;
   DISTRICT_LATLNG[d] = {
-    polygon: hull.map(([lng, lat]) => [lat, lng]),
+    polygon: finalPolygons,
     center: [cLat, cLng],
     count: pts.length
   };
