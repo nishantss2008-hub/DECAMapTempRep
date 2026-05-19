@@ -104,6 +104,34 @@
   margin-top: 1px;
 }
 
+/* Event markers */
+.fldeca-event-marker {
+  background: transparent !important;
+  border: none !important;
+}
+.fldeca-event-inner {
+  width: 30px;
+  height: 30px;
+  background: #f39c12;
+  color: #fff;
+  border-radius: 50%;
+  border: 2px solid #ffffff;
+  box-shadow: 0 4px 10px rgba(243, 156, 18, 0.4), 0 0 0 1px rgba(0, 0, 0, 0.05);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+.fldeca-event-inner svg {
+  width: 18px;
+  height: 18px;
+}
+.fldeca-event-inner:hover {
+  transform: scale(1.15) translateY(-2px);
+  box-shadow: 0 6px 14px rgba(243, 156, 18, 0.5), 0 0 0 1px rgba(0, 0, 0, 0.1);
+}
+
 /* Leaflet tooltip (hover label) */
 .leaflet-tooltip.leaflet-tooltip-top {
   background: #0f487c;

@@ -641,6 +641,15 @@ export const SCHOOLS = SCHOOLS_RAW.map((row, idx) => {
   return { n: name, d: d, x: x, y: y, lat, lng, city, exact };
 }).filter(Boolean);
 
+export const EVENTS = [
+  { name: "Envision Conference", location: "Tampa, FL", lat: 27.9506, lng: -82.4572, date: "TBD", type: "State" },
+  { name: "Florida CDC", location: "Orlando, FL", lat: 28.5383, lng: -81.3792, date: "TBD", type: "State" },
+  { name: "SEM", location: "Orlando, FL", lat: 28.5683, lng: -81.3792, date: "Jan 27-31, 2027", type: "Regional" }, // offset
+  { name: "ICDC", location: "Anaheim, CA", lat: 33.8366, lng: -117.9143, date: "April 17-20, 2027", type: "International" },
+  { name: "ELS", location: "Tysons, VA", lat: 38.9187, lng: -77.2311, date: "July 11-13, 2026", type: "National" },
+  { name: "Ultimate DECA Power Trip", location: "Louisville, KY", lat: 38.2527, lng: -85.7585, date: "Nov 20-22, 2026", type: "National" }
+];
+
 export const GEOCODE_STATS = {
   total: SCHOOLS.length,
   exact: SCHOOLS.filter(s => s.exact).length,

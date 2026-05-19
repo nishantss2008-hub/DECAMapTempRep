@@ -4,7 +4,7 @@ import FL_COUNTIES from './flCounties.json';
 import L from 'leaflet';
 import 'leaflet/dist/leaflet.css';
 import './App.css';
-import { DISTRICTS, SCHOOLS, DISTRICT_LATLNG, FL_BOUNDS, STATE_OFFICERS } from './MapData';
+import { DISTRICTS, SCHOOLS, DISTRICT_LATLNG, FL_BOUNDS, STATE_OFFICERS, EVENTS } from './MapData';
 
 function ZoomWatcher({ onZoom }) {
   const map = useMap();
@@ -39,6 +39,22 @@ const makeDistrictIcon = (d, color, count) => {
     iconSize: [44, 44],
     iconAnchor: [22, 22],
     popupAnchor: [0, -22]
+  });
+};
+
+const makeEventIcon = () => {
+  return L.divIcon({
+    className: 'fldeca-event-marker',
+    html: `
+      <div class="fldeca-event-inner">
+        <svg viewBox="0 0 24 24" fill="currentColor">
+          <path d="M11.99 2C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2zm4.24 16L12 15.45 7.77 18l1.12-4.81-3.73-3.23 4.92-.42L12 5l1.92 4.53 4.92.42-3.73 3.23L16.23 18z"/>
+        </svg>
+      </div>
+    `,
+    iconSize: [30, 30],
+    iconAnchor: [15, 15],
+    popupAnchor: [0, -15]
   });
 };
 
@@ -85,7 +101,7 @@ function App() {
         boundsOptions={{ padding: [20, 20] }}
         scrollWheelZoom
         className="fldeca-leaflet"
-        minZoom={6}
+        minZoom={4}
         maxZoom={14}
       >
         <ZoomWatcher onZoom={setZoom} />
@@ -165,6 +181,33 @@ function App() {
             </CircleMarker>
           );
         })}
+
+        {EVENTS.map((e, idx) => (
+          <Marker
+            key={`evt-${idx}`}
+            position={[e.lat, e.lng]}
+            icon={makeEventIcon()}
+          >
+            <Tooltip direction="top" offset={[0, -15]}>
+              <div className="lt-d">{e.type} Event</div>
+              {e.name}
+            </Tooltip>
+            <Popup className="fldeca-popup" maxWidth={300}>
+              <div className="card">
+                <span className="card-badge" style={{ background: '#0f487c', color: '#ffffff' }}>
+                  {e.type} Event
+                </span>
+                <h3 className="card-name">{e.name}</h3>
+                <p className="card-role">{e.location}</p>
+                
+                <div className="card-row">
+                  <span className="card-label">Date</span>
+                  <span className="card-value">{e.date}</span>
+                </div>
+              </div>
+            </Popup>
+          </Marker>
+        ))}
 
         {Object.keys(DISTRICT_LATLNG).map(d => {
           const g = DISTRICT_LATLNG[d];
