@@ -44,8 +44,26 @@ const makeDistrictIcon = (d, color, count) => {
 
 function App() {
   const [zoom, setZoom] = useState(7);
+  const activeCountyRef = React.useRef(null);
   const showSchools = zoom >= 8;
   const baseR = zoom >= 11 ? 6 : zoom >= 9 ? 4.5 : 3.5;
+
+  const defaultCountyStyle = {
+    color: '#6c7a89',
+    weight: 1.5,
+    opacity: 0.6,
+    fillColor: 'transparent',
+    dashArray: '4, 4'
+  };
+
+  const activeCountyStyle = {
+    color: '#0f487c',
+    weight: 3,
+    opacity: 1,
+    fillColor: '#61a1d7',
+    fillOpacity: 0.25,
+    dashArray: ''
+  };
 
   return (
     <div id="fldeca-map-root">
@@ -88,18 +106,20 @@ function App() {
           <LayersControl.Overlay name="Florida Counties">
             <GeoJSON
               data={FL_COUNTIES}
-              style={{
-                color: '#6c7a89',
-                weight: 1.5,
-                opacity: 0.6,
-                fillColor: 'transparent',
-                dashArray: '4, 4'
-              }}
+              style={defaultCountyStyle}
               onEachFeature={(feature, layer) => {
                 if (feature.properties && feature.properties.NAME) {
                   layer.bindTooltip(`${feature.properties.NAME} County`, {
                     sticky: true,
                     direction: 'auto'
+                  });
+                  layer.on('click', () => {
+                    if (activeCountyRef.current && activeCountyRef.current !== layer) {
+                      activeCountyRef.current.setStyle(defaultCountyStyle);
+                    }
+                    activeCountyRef.current = layer;
+                    layer.setStyle(activeCountyStyle);
+                    layer.bringToFront();
                   });
                 }
               }}

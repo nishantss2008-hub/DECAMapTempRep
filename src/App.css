@@ -22,6 +22,9 @@
   width: 100%;
   height: calc(100% - 56px);
 }
+#fldeca-map-root .leaflet-interactive:focus {
+  outline: none !important;
+}
 
 /* State officer bar */
 #fldeca-map-root .fldeca-state-bar {
