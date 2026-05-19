@@ -677,21 +677,13 @@ function convexHull(points) {
   return lower.concat(upper);
 }
 
-function padHull(hull, pad) {
-  const cx = hull.reduce((s,p)=>s+p[0],0) / hull.length;
-  const cy = hull.reduce((s,p)=>s+p[1],0) / hull.length;
-  return hull.map(([x,y]) => {
-    const dx = x - cx, dy = y - cy;
-    const len = Math.sqrt(dx*dx + dy*dy) || 1;
-    return [x + (dx/len) * pad, y + (dy/len) * pad];
-  });
-}
+
 
 export const DISTRICT_GEOM = {};
 Object.keys(DISTRICTS).forEach(d => {
   const pts = SCHOOLS.filter(s => s.d == d).map(s => [s.x, s.y]);
   if (!pts.length) return;
-  const hull = padHull(convexHull(pts), 18);
+  const hull = convexHull(pts);
   const cx = pts.reduce((s,p)=>s+p[0],0) / pts.length;
   const cy = pts.reduce((s,p)=>s+p[1],0) / pts.length;
   DISTRICT_GEOM[d] = {
@@ -705,7 +697,7 @@ export const DISTRICT_LATLNG = {};
 Object.keys(DISTRICTS).forEach(d => {
   const pts = SCHOOLS.filter(s => s.d == d).map(s => [s.lng, s.lat]);
   if (!pts.length) return;
-  const hull = padHull(convexHull(pts), 0.15);
+  const hull = convexHull(pts);
   const cLat = pts.reduce((s,p)=>s+p[1],0) / pts.length;
   const cLng = pts.reduce((s,p)=>s+p[0],0) / pts.length;
   DISTRICT_LATLNG[d] = {
